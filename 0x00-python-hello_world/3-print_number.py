@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 x = 4
-print(f"{x} Battery street")
+print('{:d} Battery street'.format(x))
