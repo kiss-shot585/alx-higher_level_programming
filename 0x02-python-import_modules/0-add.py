@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    #print sum of two numbers
+    """sum of two numbers"""
     from add_0 import add
 
     a = 1
