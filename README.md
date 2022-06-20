@@ -1,1 +1,1 @@
-Here we shall be learning python
+python exceptions
